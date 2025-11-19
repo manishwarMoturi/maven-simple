@@ -91,4 +91,4 @@ Step 2: Create Freestyle Project (e.g., MavenJava_Build)
 1.	If build is success and the test project is also automatically triggered with name       
                       “MavenJava_Test”
 2.	The pipeline is successful if it is in green color as shown ->check the console of the test project
-3.	The test project is successful and all the artifacts are archived successfull
+3.	The test project is successful and all the artifacts are archived successfully
